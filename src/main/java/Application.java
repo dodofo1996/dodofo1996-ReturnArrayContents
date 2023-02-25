@@ -12,5 +12,5 @@ public class Application {
         int[] arr = {4, 5, 6, 7};
         System.out.println("Here is what the lab currently returns from the array {4, 5, 6, 7} - should be 4 5 6 7");
         System.out.println(arrayContents.arrayToString(arr));
-    }
+    } 
 }
